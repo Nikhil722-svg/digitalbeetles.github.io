@@ -1,0 +1,24 @@
+ {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Fondamento", cursive;
+}
+
+.carousel-inner img {
+  width: 85%;
+  height: 85vh;
+}
+
+.carousel-inner h5 {
+  color: #blue;
+}
+
+.carousel-item {
+  color: #blue;
+}
+
+.aboutimg {
+  width: 75%;
+  height: 250px;
+}
